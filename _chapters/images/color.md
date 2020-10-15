@@ -1,3 +1,9 @@
+---
+title: Color
+keywords: (insert comma-separated keywords here)
+order: 8 # Lecture number for 2020
+---
+
 Lecture 8: Color
 keywords: color, physics, matching, constancy
 order: 8
